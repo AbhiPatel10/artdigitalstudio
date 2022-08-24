@@ -19,22 +19,22 @@ const Footer = () => {
                                 </h4>
                             </div>
                             <div className="social_box">
-                                <a href="#">
+                                <a href="/">
                                     <img src={Facebook_img} alt="" />
                                 </a>
-                                <a href="#">
+                                <a href="/">
                                     <img src={Twitter_img} alt="" />
                                 </a>
-                                <a href="#">
+                                <a href="/">
                                     <img src={instagram_img} alt="" />
                                 </a>
-                                <a href="#">
+                                <a href="/">
                                     <img src={Linkedin_img} alt="" />
                                 </a>
-                                <a href="#">
+                                <a href="/">
                                     <img src={Dribble_img} alt="" />
                                 </a>
-                                <a href="#">
+                                <a href="/">
                                     <img src={Pinterest_img} alt="" />
                                 </a>
                             </div>

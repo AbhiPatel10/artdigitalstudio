@@ -26,7 +26,7 @@ const About = () => {
                                 letters,
                             </p>
                             <div>
-                                <a href="">
+                                <a href="/">
                                     about More
                                 </a>
                             </div>
